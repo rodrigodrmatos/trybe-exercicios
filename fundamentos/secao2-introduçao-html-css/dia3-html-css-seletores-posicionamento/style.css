@@ -24,7 +24,14 @@ p {
 .fotopequena {width: 200px;
              height: 200px;
              border-radius: 100%;
-             
+}
 
+.corpooverflow {background-color: white;
+                padding: 5%;
+                height: 200px;
+                overflow: auto;        
+}
 
+.fotoredonda {padding: 1%;
+              align-items: center;
 }
