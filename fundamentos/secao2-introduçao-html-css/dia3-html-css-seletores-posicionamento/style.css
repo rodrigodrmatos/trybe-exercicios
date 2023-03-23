@@ -1,0 +1,22 @@
+
+h1 {color:rgb(36, 59, 59);
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+body {
+    background-color: rgb(63, 164, 172);
+    font-size: 25px;
+}
+
+#extinct-specie {
+    background-color: rgb(127, 127, 146);
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    font-family: monospace;
+}
