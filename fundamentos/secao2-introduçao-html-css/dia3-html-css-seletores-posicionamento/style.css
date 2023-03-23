@@ -33,5 +33,7 @@ p {
 }
 
 .fotoredonda {padding: 1%;
-              align-items: center;
+              text-align: center;
+
+            
 }
